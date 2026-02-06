@@ -23,4 +23,4 @@ Yandex Go: "I assume the pricing service handles surge pricing calculations base
 ## Open questions
 
 Yandex Go: "How does the actual load balancing mechanism work between the microservices in production?"<br>
-Yandex Go: "How does the actual load balancing mechanism work between the microservices in production?"
+Yandex Go: "How do es the actual load balancing mechanism work between the microservices in production?"
